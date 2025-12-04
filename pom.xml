@@ -5,11 +5,11 @@
     <modelVersion>4.0.0</modelVersion>
 
     <groupId>org.example</groupId>
-    <artifactId>agiBankTestApi</artifactId>
+    <artifactId>AgiApiBank</artifactId>
     <version>1.0-SNAPSHOT</version>
     <packaging>jar</packaging>
 
-    <name>agiBankTestApi</name>
+    <name>AgiApiBank</name>
     <url>http://maven.apache.org</url>
 
     <properties>
