@@ -17,6 +17,7 @@ OU
 - Instalar o Maven por https://maven.apache.org/download.cgi
 
 ✅ PASSO 4 — Importar projeto maven na IDE
+
 1️⃣ IntelliJ IDEA
 - Abra o IntelliJ IDEA.
 
