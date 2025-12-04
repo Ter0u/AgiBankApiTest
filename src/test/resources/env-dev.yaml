@@ -1,0 +1,8 @@
+consultaListaTodasRacas:
+  url: https://dog.ceo/api/breeds/list/all
+
+consultaImagensDeRacas:
+  url: https://dog.ceo/api/breed/hound/images
+
+consultaImagemAleatoriaDeRacas:
+  url: https://dog.ceo/api/breeds/image/random
